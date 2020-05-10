@@ -1,4 +1,8 @@
-//Binary Search Application finding out the first and last occurences of an element
+/*
+		--------APPLICATION OF BINARY SEACRH---------
+Binary Search Application finding out the first and last occurences of an element
+Also Find the total number of a given element in sorted array.
+*/
 
 #include<stdio.h>
 
