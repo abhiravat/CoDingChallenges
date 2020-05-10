@@ -1,3 +1,6 @@
+/*
+	Count how many number of times a sorted array is roteted. 
+*/
 #include<stdio.h>
 
 int findRotationCount(int a[],int s)
