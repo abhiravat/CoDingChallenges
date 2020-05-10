@@ -1,3 +1,7 @@
+/*
+Find Out the Prime Factorizatuin of a Given Number
+*/
+
 #include<stdio.h>
 #include<math.h>
 
