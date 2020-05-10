@@ -3,7 +3,7 @@
 void main()
 {
 	char s[]="banana";
-	//char fruit[][6]={"bananb","mango","guava","orange","apple","pineap"};
+	//char fruit[][6]={"banana","mango","guava","orange","apple","pineap"};
 	char f[6][10];
 	
 	char *p;
@@ -16,7 +16,7 @@ void main()
 	len1=strlen(s);
 	
 	for(i=0;i<6;i++)
-	{c=0;
+	{	c=0;
 		if(strlen(f[i])==len1)
 			
 		{
